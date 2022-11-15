@@ -1,0 +1,12 @@
+body{
+    margin: 30px;
+    background-color: rgb(222, 232, 235);
+    padding: 20px;
+    width: 2000px;
+}
+
+main{
+    width: 2000px;
+    background-color: rgb(125, 129, 138);
+    margin: 20px auto;
+}
